@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Meetup #27 に参加してきた](https://medium.com/makotows-blog/kubernetes-meetup-27-%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F-c2861f6c0e3f?source=rss-71d701588ea9------2)
+- [Rook EdgeFS: ISGWでデータを扱う](https://medium.com/makotows-blog/rook-edgefs-isgw-walkthrough-6dee382fa6fe?source=rss-71d701588ea9------2)
+- [Rook: EdgeFS CSIを試す](https://medium.com/makotows-blog/rook-edgefs-csi%E3%82%92%E8%A9%A6%E3%81%99-927368a119f8?source=rss-71d701588ea9------2)
+- [Rook: EdgeFS AWS S3/ Edge-X S3 やってみた](https://medium.com/makotows-blog/rook-edgefs-aws-s3-edge-x-s3-%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-64f3735ce411?source=rss-71d701588ea9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
