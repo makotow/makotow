@@ -15,10 +15,10 @@ I design cloud and AI architectures for financial services and other regulated i
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agentの評価を「スコアリング」から「デバッグ」へ — どこで最初に壊れたかを評価する](https://blog.makotow.net/2026/09/22/agent-evaluation-debugging/)
+- [AI Agentの品質はモデルだけでは決まらない — Harness Engineeringとは何か](https://blog.makotow.net/2026/09/22/harness-engineering/)
 - [HugoからAstroへ: 移行のほぼ全てをAIエージェントにやらせた記録](https://blog.makotow.net/2026/07/06/hugo-to-astro-with-ai-agent/)
 - [Proxmox導入](https://blog.makotow.net/2021/09/12/proxmox-introduction/)
-- [家庭内簡易DNSサーバを EdgeRouter X を使って実現した](https://blog.makotow.net/2021/03/11/er-x-dnsmasq/)
-- [Terraform で KVM を操作する](https://blog.makotow.net/2020/04/22/terraform-libvirt-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
