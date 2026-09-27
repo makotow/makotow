@@ -15,10 +15,10 @@ I design cloud and AI architectures for financial services and other regulated i
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentにコード実行させるならSandboxだけでは足りない — 防御境界を継続的に評価する](https://blog.makotow.net/2026/09/27/agent-sandbox-security-boundary/)
 - [AI Agentの評価を「スコアリング」から「デバッグ」へ — どこで最初に壊れたかを評価する](https://blog.makotow.net/2026/09/22/agent-evaluation-debugging/)
 - [AI Agentの品質はモデルだけでは決まらない — Harness Engineeringとは何か](https://blog.makotow.net/2026/09/22/harness-engineering/)
 - [HugoからAstroへ: 移行のほぼ全てをAIエージェントにやらせた記録](https://blog.makotow.net/2026/07/06/hugo-to-astro-with-ai-agent/)
-- [Proxmox導入](https://blog.makotow.net/2021/09/12/proxmox-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
