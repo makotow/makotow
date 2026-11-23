@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Makoto 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makotow&label=Profile%20views&color=0e75b6&style=flat" alt="makotow" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makotow" alt="makotow" /></a> </p>
+# Hi, I'm Makoto 👋
 
 I design cloud and AI architectures for financial services and other regulated industries — environments where failure is not an option.
 
@@ -13,24 +10,36 @@ I design cloud and AI architectures for financial services and other regulated i
 ### Interests
 `ai-agents` `agent-evals` `agent-infrastructure` `mcp` `llm-testing` `kubernetes` `observability` `go` `rust` `fintech-infrastructure`
 
-### Blogs posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A2UI 1.0で何が変わるのか：座席指定フォームで学ぶLLMとUIの役割分担](https://blog.makotow.net/2026/11/24/a2ui-1-0-hands-on/)
+- [GKE Agent Substrate入門：エージェントの状態を保ち、待ち時間の計算資源を解放する](https://blog.makotow.net/2026/11/24/gke-agent-substrate/)
 - [Agentにコード実行させるならSandboxだけでは足りない — 防御境界を継続的に評価する](https://blog.makotow.net/2026/09/27/agent-sandbox-security-boundary/)
 - [AI Agentの評価を「スコアリング」から「デバッグ」へ — どこで最初に壊れたかを評価する](https://blog.makotow.net/2026/09/22/agent-evaluation-debugging/)
-- [AI Agentの品質はモデルだけでは決まらない — Harness Engineeringとは何か](https://blog.makotow.net/2026/09/22/harness-engineering/)
-- [HugoからAstroへ: 移行のほぼ全てをAIエージェントにやらせた記録](https://blog.makotow.net/2026/07/06/hugo-to-astro-with-ai-agent/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+### Languages and Tools
 <p align="left">
-<a href="https://twitter.com/makotow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="makotow" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/makotow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="makotow" height="30" width="40" /></a>
-<a href="https://blog.makotow.net" target="blank"><img align="center" src="https://api.iconify.design/mdi/rss.svg?color=%23f26522" alt="blog" height="30" width="40" /></a>
+  <a href="https://kubernetes.io" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="36" height="36" /></a>&nbsp;
+  <a href="https://cloud.google.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="36" height="36" /></a>&nbsp;
+  <a href="https://aws.amazon.com" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" alt="AWS" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.docker.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.terraform.io/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="36" height="36" /></a>&nbsp;
+  <a href="https://opentelemetry.io/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry" width="36" height="36" /></a>&nbsp;
+  <a href="https://go.dev/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.rust-lang.org/" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/rust.svg?color=%23dea584" alt="Rust" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.python.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.java.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" /></a>&nbsp;
+  <a href="https://astro.build/" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/astro.svg?color=%23FF5D01" alt="Astro" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.linux.org/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36" /></a>&nbsp;
+  <a href="https://github.com/features/actions" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makotow&show_icons=true&locale=en&layout=compact" alt="makotow" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makotow&show_icons=true&locale=en" alt="makotow" /></p>
+### Connect with me
+<p align="left">
+  <a href="https://x.com/makotow" rel="noreferrer"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23888888" alt="X (Twitter)" width="28" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/makotow" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://blog.makotow.net" rel="noreferrer"><img src="https://api.iconify.design/mdi/rss.svg?color=%23f26522" alt="Blog (blog.makotow.net)" width="28" height="28" /></a>
+</p>
