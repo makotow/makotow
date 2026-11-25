@@ -12,10 +12,10 @@ I design cloud and AI architectures for financial services and other regulated i
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ハーネスの継続改善には「なぜ変えてどうなったか」の記憶が要る — 『Self-Improvement Memory Enables Continual Recursive Self-Improvement』を読んでみた](https://blog.makotow.net/2026/11/25/self-improvement-memory-crsi/)
 - [A2UI 1.0で何が変わるのか：座席指定フォームで学ぶLLMとUIの役割分担](https://blog.makotow.net/2026/11/24/a2ui-1-0-hands-on/)
 - [GKE Agent Substrate入門：エージェントの状態を保ち、待ち時間の計算資源を解放する](https://blog.makotow.net/2026/11/24/gke-agent-substrate/)
-- [Agentにコード実行させるならSandboxだけでは足りない — 防御境界を継続的に評価する](https://blog.makotow.net/2026/09/27/agent-sandbox-security-boundary/)
-- [AI Agentの評価を「スコアリング」から「デバッグ」へ — どこで最初に壊れたかを評価する](https://blog.makotow.net/2026/09/22/agent-evaluation-debugging/)
+- [GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance — AI Agentのハーネス自己改善を壊さない設計](https://blog.makotow.net/2026/11/24/guard-regret-guided-harness-rsi/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
